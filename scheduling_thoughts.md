@@ -1,4 +1,11 @@
-# Scheduling Paradigms
+# Scheduling Paradigms (WIP)
+***fix formatting
+***update from isolated to independent
+***Adjust requirements to match original article and organize to fit that pattern
+***Add more examples, references, diagrams
+***Try to prove myself wrong
+***Consolidate
+***Revise and revise again
 ## Intro
 A problem that has recently become a sore point for my team is that of delayed task execution. A question like, "How can we make these processes run 15 days from now?" becomes a long debate more and more consistently with each passing week. More specifically, we are debating between processing these delayed tasks in real-time or in batches. The approaches are similar, but the systems that emerge from them are very different.
 ## What problem are we trying to solve?
@@ -45,11 +52,3 @@ Persisted	X	X	X	X
 Scalable			X	X
 Controllable		X		X
 Monitorable			Redundant monitors	X
-
-***fix formatting
-***update from isolated to independent
-***Adjust requirements to match original article and organize to fit that pattern
-***Add more examples, references, diagrams
-***Try to prove myself wrong
-***Consolidate
-***Revise and revise again
